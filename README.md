@@ -1,6 +1,6 @@
 # Seven Sages Brewing Company - Power BI Sales Analysis Dashboard
 
-This project is part of the **Data Analysis and Visualization with Power BI Nanodegree** by **Udacity**. The goal was to design an intuitive, centralized Power BI report for **Seven Sages Brewing Company**, enabling their CFO to effortlessly monitor top-performing beers and overall profitability across the business.
+This project is part of the **Data Analysis and Visualization with Power BI Nanodegree** by **Udacity**. The goal was to design an intuitive, centralized Power BI report for **Seven Sages Brewing Company**, enabling their CFO to effortlessly monitor top-performing products and overall profitability across the business.
 
 > ✅ Completed: December 09, 2024
 
