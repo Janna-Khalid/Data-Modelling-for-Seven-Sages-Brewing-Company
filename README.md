@@ -21,7 +21,6 @@ The data for this project was compiled from multiple departments and formats:
 - **Customer Records**: Exported by IT with updated customer details.
 - **Metrics Documentation**: Sales, costs, and servings data maintained by the CFO.
 
-All raw files are stored under the `/source files` directory.
 
 ---
 
