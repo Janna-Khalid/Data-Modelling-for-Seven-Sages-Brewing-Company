@@ -1,6 +1,6 @@
-# 🍺 Seven Sages Brewing Company - Power BI Sales Analysis Dashboard
+# Seven Sages Brewing Company - Power BI Sales Analysis Report
 
-This project is part of the **Data Analysis and Visualization with Power BI Nanodegree** by **Udacity**. The goal was to design an intuitive, centralized Power BI report for **Seven Sages Brewing Company**, enabling their CFO to effortlessly monitor top-performing beers and overall profitability across the business.
+This project is part of the **Data Analysis and Visualization with Power BI Nanodegree** by **Udacity**. The goal was to design an intuitive, centralized Power BI report for **Seven Sages Brewing Company**, enabling their CFO to effortlessly monitor top-performing products and overall profitability across the business.
 
 > ✅ Completed: December 09, 2024
 
@@ -8,7 +8,7 @@ This project is part of the **Data Analysis and Visualization with Power BI Nano
 
 Seven Sages Brewing Company, like many growing businesses, faced a common challenge: siloed data across departments. This project brings all that scattered information into a single, cohesive Power BI data model, providing decision-makers with real-time insights into performance, sales, and margins.
 
-By applying strong data modeling and visualization principles, I created a dynamic, interactive dashboard that lays a solid foundation for more advanced reporting needs—including complex DAX measures, scalable data models, and high-level executive summaries.
+By applying strong data modeling and visualization principles, I created a dynamic, a report that lays a solid foundation for more advanced reporting needs—including complex DAX measures, scalable data models, and high-level executive summaries.
 
 ---
 
@@ -21,7 +21,6 @@ The data for this project was compiled from multiple departments and formats:
 - **Customer Records**: Exported by IT with updated customer details.
 - **Metrics Documentation**: Sales, costs, and servings data maintained by the CFO.
 
-All raw files are stored under the `/source files` directory.
 
 ---
 
